@@ -1,13 +1,13 @@
 
-# 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+# Titanic Dataset - Exploratory Data Analysis (EDA)
 
-## 📌 Overview
+## Overview
 
 This repository contains my submission for **Task 5** of the **Data Analyst Internship** program. The task involves performing **Exploratory Data Analysis (EDA)** on the **Titanic Dataset** (or a relevant dataset of your choice) using Python libraries like **Pandas**, **Matplotlib**, and **Seaborn**. The goal is to extract insights, identify patterns, and build familiarity with visual/statistical analysis techniques.
 
 ---
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python
 - Pandas
@@ -17,7 +17,7 @@ This repository contains my submission for **Task 5** of the **Data Analyst Inte
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `EDA_Titanic.ipynb`: Jupyter Notebook containing the full EDA process.
 - `EDA_Titanic_Report.pdf`: PDF version of the notebook with visualizations and observations.
@@ -25,7 +25,7 @@ This repository contains my submission for **Task 5** of the **Data Analyst Inte
 
 ---
 
-## 🔍 Steps Followed in the Analysis
+## Steps Followed in the Analysis
 
 1. **Data Loading and Inspection**
    - Used `.info()`, `.describe()`, and `.head()` to understand structure and summary statistics.
@@ -49,7 +49,7 @@ This repository contains my submission for **Task 5** of the **Data Analyst Inte
    - A concise write-up of key observations and potential implications.
 ---
 
-## 🚀 Outcome
+## Outcome
 
 Through this task, I gained practical skills in data visualization and statistical analysis. I also strengthened my ability to detect data patterns, anomalies, and correlations — foundational skills for any data analyst.
 
