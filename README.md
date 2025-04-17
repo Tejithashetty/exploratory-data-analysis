@@ -19,9 +19,9 @@ This repository contains my submission for **Task 5** of the **Data Analyst Inte
 
 ## Files Included
 
-- `EDA_Titanic.ipynb`: Jupyter Notebook containing the full EDA process.
-- `EDA_Titanic_Report.pdf`: PDF version of the notebook with visualizations and observations.
-- `train.csv`: Titanic dataset used for the analysis (from [Kaggle](https://www.kaggle.com/c/titanic/data?select=train.csv&utm_source=chatgpt.com)).
+- `task5.ipynb`: Jupyter Notebook containing the full EDA process.
+- `Findings Report.pdf`: PDF version of the notebook with visualizations and observations.
+- `titanic_predictions.csv`: Titanic dataset used for the analysis (from [Kaggle](https://www.kaggle.com/c/titanic/data?select=train.csv&utm_source=chatgpt.com)).
 
 ---
 
